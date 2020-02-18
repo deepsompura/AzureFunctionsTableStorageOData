@@ -1,0 +1,1 @@
+# AzureFunctionsTableStorageOData
